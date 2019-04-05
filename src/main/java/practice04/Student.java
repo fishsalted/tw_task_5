@@ -1,8 +1,8 @@
 package practice04;
 
-public class Student extends practice01.Person {
+public class Student extends Person {
 
-    int klass_;
+    private int klass_;
 
     public Student(String name, int age, int klass) {
         super(name,age);
@@ -14,7 +14,7 @@ public class Student extends practice01.Person {
     }
 
     public String introduce() {
-        return super.introduce() + " I am a Student. I am at Class " + klass_ + ".";
+        return super.basicIntroduce() + " I am a Student. I am at Class " + klass_ + ".";
     }
 
 }
