@@ -1,4 +1,4 @@
-package practice09;
-
-public class Person {
-}
+//package practice09;
+//
+//public class Person {
+//}

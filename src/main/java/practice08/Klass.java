@@ -2,7 +2,7 @@ package practice08;
 
 public class Klass extends practice07.Klass {
 
-    private Student leader_;
+    protected Student leader_;
 
     public Klass(int number) {
         super(number);
