@@ -1,4 +1,4 @@
-package practice06;
-
-public class Student {
-}
+//package practice06;
+//
+//public class Student {
+//}
